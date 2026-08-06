@@ -21,8 +21,11 @@ authors:
     orcid: "https://orcid.org/0000-0001-6165-7389"
     affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
 
-repository-code: "https://github.com/denisecase/ml-06-serving"
-url: "https://github.com/denisecase/ml-06-serving"
+  - family-names: Atchoe
+    given-names: Arnold Atchoe.
+    affiliation: "Northwest Missouri State University, School of Computer Science and Information Systems, Maryville, MO, USA"
+repository-code: "https://github.com/kwameape123/ml-06-serving"
+url: "https://github.com/kwameape123/ml-06-serving"
 license: MIT
 
 abstract: >
